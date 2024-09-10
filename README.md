@@ -1,1 +1,1 @@
-# beyzasahingoz.hithub.io
+# beyzasahingoz.github.io
